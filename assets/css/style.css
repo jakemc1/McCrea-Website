@@ -8,6 +8,7 @@ html{
   padding: .5em;
   background-color: #ffffff;
   list-style-type: none;
+  margin: 0;
 }
 
 .site-nav > li {
@@ -57,6 +58,12 @@ body, html {
 
 .aligncenter{
   text-align: center;
+}
+
+.about-me{
+  background-color: white;
+  padding-left: .5em;
+  padding-right: .5em;
 }
 
 main{
